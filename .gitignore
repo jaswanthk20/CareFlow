@@ -1,0 +1,6 @@
+# Reproducible local environments and patient-level working database.
+EDA/.packages/
+EDA/.venv/
+EDA/__pycache__/
+EDA/outputs/*.sqlite
+EDA/outputs/*.sqlite-*

@@ -1,0 +1,5 @@
+check_name,failures
+edstays_duplicate_stay_id,0
+triage_duplicate_stay_id,0
+triage_orphan_stay,0
+nonpositive_los,0

@@ -1,0 +1,5 @@
+source,stays_with_records,records,mean_records_per_documented_stay,max_records
+diagnosis,221,545,2.4660633484162897,9
+medrecon,181,2764,15.2707182320442,59
+pyxis,176,1082,6.1477272727272725,34
+vitalsign,206,1038,5.038834951456311,22

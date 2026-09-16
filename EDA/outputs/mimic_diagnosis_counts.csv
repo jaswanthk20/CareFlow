@@ -1,0 +1,289 @@
+icd_version,icd_code,icd_title,records,stays
+9,4019,HYPERTENSION NOS,21,21
+10,Z794,Long term (current) use of insulin,19,19
+10,I10,Essential (primary) hypertension,13,13
+9,25000,DIABETES UNCOMPL ADULT,12,12
+10,E119,Type 2 diabetes mellitus without complications,9,9
+10,R079,"Chest pain, unspecified",8,8
+9,2720,HYPERCHOLESTEROLEMIA,7,7
+10,N179,"Acute kidney failure, unspecified",7,7
+9,4280,"CONGESTIVE HEART FAILURE, UNSPEC",6,6
+10,R0600,"Dyspnea, unspecified",6,6
+10,N390,"Urinary tract infection, site not specified",6,6
+10,I4891,Unspecified atrial fibrillation,6,6
+10,R531,Weakness,6,6
+9,78097,ALTERED MENTAL STATUS ,6,6
+9,25001,DIABETES UNCOMPL JUVEN,5,5
+9,V5867,LONG-TERM (CURRENT) USE OF INSULIN,5,5
+10,E109,Type 1 diabetes mellitus without complications,5,5
+9,V08,ASYMPTOMATIC HIV INFECTION,5,5
+9,5990,URIN TRACT INFECTION NOS,5,5
+9,5849,"ACUTE KIDNEY FAILURE, UNSPECIFIED",6,5
+9,42731,ATRIAL FIBRILLATION,5,5
+10,N189,"Chronic kidney disease, unspecified",4,4
+9,486,"PNEUMONIA,ORGANISM UNSPECIFIED",4,4
+10,R45851,Suicidal ideations,4,4
+9,E9289,ACCIDENT NOS,4,4
+9,E8889,UNSPECIFIED FALL,4,4
+10,K922,"Gastrointestinal hemorrhage, unspecified",4,4
+10,W1830XA,"Fall on same level, unspecified, initial encounter",4,4
+10,F10129,"Alcohol abuse with intoxication, unspecified",4,4
+10,E039,"Hypothyroidism, unspecified",4,4
+9,07070,UNSPECIFIED VIRAL HEPATITIS C WITHOUT HEPATIC COMA,4,4
+10,Y9289,Oth places as the place of occurrence of the external cause,4,4
+9,25081,IDDM W SPEC MANIFESTATION,3,3
+10,D649,"Anemia, unspecified",3,3
+10,D72829,"Elevated white blood cell count, unspecified",3,3
+9,78060,"FEVER, UNSPECIFIED",3,3
+10,E7800,"Pure hypercholesterolemia, unspecified",3,3
+10,E860,Dehydration,3,3
+10,M7989,Other specified soft tissue disorders,3,3
+10,R509,"Fever, unspecified",3,3
+10,R0789,Other chest pain,3,3
+10,R109,Unspecified abdominal pain,3,3
+10,R1013,Epigastric pain,3,3
+10,R5383,Other fatigue,3,3
+10,B20,Human immunodeficiency virus [HIV] disease,3,3
+10,Z992,Dependence on renal dialysis,3,3
+9,V5861,LONG TERM USE ANTIGOAGULANT,3,3
+10,Z7901,Long term (current) use of anticoagulants,3,3
+10,I313,Pericardial effusion (noninflammatory),3,3
+10,J189,"Pneumonia, unspecified organism",3,3
+9,5789,GASTROINTEST HEMORR NOS,3,3
+10,R871,Abn lev hormones in specimens from female genital organs,2,2
+9,2989,PSYCHOSIS NOS,2,2
+9,29570,SCHIZOAFFECTIVE-UNSPEC,2,2
+10,S0090XA,"Unsp superficial injury of unsp part of head, init encntr",2,2
+10,W010XXA,"Fall same lev from slip/trip w/o strike against object, init",2,2
+10,R55,Syncope and collapse,2,2
+10,R740,Nonspec elev of levels of transamns & lactic acid dehydrgnse,2,2
+9,4589,HYPOTENSION NOS,2,2
+9,431,INTRACEREBRAL HEMORRHAGE,2,2
+10,R112,"Nausea with vomiting, unspecified",2,2
+10,R1031,Right lower quadrant pain,2,2
+10,R197,"Diarrhea, unspecified",2,2
+10,R319,"Hematuria, unspecified",2,2
+10,E1010,Type 1 diabetes mellitus with ketoacidosis without coma,2,2
+10,E10621,Type 1 diabetes mellitus with foot ulcer,2,2
+10,K625,Hemorrhage of anus and rectum,2,2
+9,6826,CELLULITIS OF LEG,2,2
+10,N186,End stage renal disease,2,2
+10,D735,Infarction of spleen,2,2
+10,F329,"Major depressive disorder, single episode, unspecified",2,2
+10,E1065,Type 1 diabetes mellitus with hyperglycemia,2,2
+9,5715,CIRRHOSIS OF LIVER NOS,2,2
+10,I214,Non-ST elevation (NSTEMI) myocardial infarction,2,2
+9,78079,OTHER MALAISE AND FATIGUE,2,2
+9,E8888,OTHER FALL,2,2
+9,78959,OTHER ASCITES,2,2
+9,78791,DIARRHEA,2,2
+9,79092,ABNORMAL COAGULATION PROFILE,2,2
+9,8054,FX LUMBAR VERTEBRA-CLOSE,2,2
+9,78009,SEMICOMA/STUPOR,2,2
+10,A419,"Sepsis, unspecified organism",2,2
+9,70715,ULCER OF OTHER PART OF FOOT,2,2
+9,E9479,ADV EFF MEDICINAL NOS,2,2
+9,8208,FX NECK OF FEMUR NOS-CL,2,2
+9,80709,FX MULT RIBS NOS-CLOSED,2,2
+10,Y838,"Oth surgical procedures cause abn react/compl, w/o misadvnt",2,2
+9,85220,TRAUMATIC SUBDURAL HEM,2,2
+9,25011,DIAB KETOACIDOSIS IDDM,2,2
+9,0389,SEPTICEMIA NOS,2,2
+9,1541,MALIGNANT NEOPL RECTUM,1,1
+9,1985,SECONDARY MALIG NEO BONE,1,1
+9,1991,MALIGNANT NEOPLASM NOS,1,1
+9,25010,DIAB KETOACIDOSIS ADULT,1,1
+9,25080,DIAB W MANIF NEC ADULT,1,1
+9,2512,HYPOGLYCEMIA NOS,1,1
+9,2724,HYPERLIPIDEMIA NEC/NOS,1,1
+9,2761,HYPOSMOLALITY/HYPONATREMIA,1,1
+9,2762,ACIDOSIS,1,1
+10,X58XXXA,"Exposure to other specified factors, initial encounter",1,1
+10,X991XXA,"Assault by knife, initial encounter",1,1
+10,Y738,"Misc gastroent and urology devices assoc w incdt, NEC",1,1
+10,Y832,"Anastomos,bypass or grft cause abn react/compl, w/o misadvnt",1,1
+10,Y833,"Form of external stoma cause abn react/compl, w/o misadvnt",1,1
+10,Y848,"Oth medical procedures cause abn react/compl, w/o misadvnt",1,1
+10,Z452,Encounter for adjustment and management of VAD,1,1
+10,Z7984,Long term (current) use of oral hypoglycemic drugs,1,1
+10,Z8673,"Prsnl hx of TIA (TIA), and cereb infrc w/o resid deficits",1,1
+10,Z9641,Presence of insulin pump (external) (internal),1,1
+9,81344,FX LOW RADIUS W ULNA-CL,1,1
+9,85200,TRAUM SUBARACHNOID HEM,1,1
+9,85221,SUBDURAL HEM W/O COMA,1,1
+9,8600,TRAUM PNEUMOTHORAX-CLOSE,1,1
+9,86121,LUNG CONTUSION-CLOSED,1,1
+9,86405,LIVER INJURY NOS,1,1
+9,86801,ADRENAL GLAND INJURY-CL,1,1
+9,8920,OPEN WOUND OF FOOT,1,1
+9,95901,HEAD INJURY UNSPECIFIED,1,1
+9,9916,HYPOTHERMIA,1,1
+9,9953,"ALLERGY, UNSPECIFIED",1,1
+9,99591,SEPSIS ,1,1
+9,99592,SEVERE SEPSIS ,1,1
+9,99676,COMP D/TO GU DEVICE/GRAFT,1,1
+9,99679,COMP D/TO GRAFT/IMPLANT,1,1
+9,99859,OTHER POST-OP INFECTION,1,1
+9,9986,PERSIST POSTOP FISTULA,1,1
+9,E8120,MV COLLISION NOS-DRIVER,1,1
+9,E8150,MV COLL W OTH OBJ-DRIVER,1,1
+9,E8799,ABN REACT-PROCEDURE NOS,1,1
+9,E8809,FALL ON STAIR/STEP NEC,1,1
+9,E8859,"FALL FROM OTHER SLIPPING,TRIPPING,STUMBLING",1,1
+9,E9019,EXCESSIVE COLD NOS,1,1
+9,E9425,ADV EFF VASODILATORS NEC,1,1
+9,E9688,ASSAULT NEC,1,1
+9,78609,RESPIRATORY ABNORM NEC,1,1
+9,7862,COUGH,1,1
+9,78900,ABDOMINAL PAIN UNSPEC SITE,1,1
+9,78904,ABDOMINAL PAIN LLQ,1,1
+9,78909,ABDOMINAL PAIN OTHER SPECIED,1,1
+9,79439,ABN CARDIOVASC STUDY NEC,1,1
+9,7991,RESPIRATORY FAILURE,1,1
+9,8020,NASAL BONE FX-CLOSED,1,1
+9,80506,FX C6 VERTEBRA-CLOSED,1,1
+9,8052,FX DORSAL VERTEBRA-CLOSE,1,1
+9,80701,FRACTURE ONE RIB-CLOSED,1,1
+9,80703,FRACTURE THREE RIBS-CLOS,1,1
+9,V103,HX OF BREAST MALIGNANCY,1,1
+9,V4501,CARDIAC PACEMAKER STATUS,1,1
+9,V5881,REMOVAL VASCULAR CATHETER,1,1
+9,V600,LACK OF HOUSING,1,1
+9,V6284,SUICIDAL IDEATION,1,1
+9,V7189,OBSERVATION FOR OTHER SPECIFIED CONDITIONS NOT FOUND,1,1
+10,B1920,Unspecified viral hepatitis C without hepatic coma,1,1
+10,C9110,Chronic lymphocytic leuk of B-cell type not achieve remis,1,1
+10,C9210,"Chronic myeloid leuk, BCR/ABL-positive, not achieve remis",1,1
+10,D61818,Other pancytopenia,1,1
+9,71941,JOINT PAIN-SHLDER,1,1
+9,7231,CERVICALGIA,1,1
+9,7242,LUMBAGO,1,1
+9,72981,SWELLING OF LIMB,1,1
+9,78039,OTHER CONVULSIONS,1,1
+9,7804,VERTIGO/DIZZINESS,1,1
+9,78052,INSOMNIA NEC,1,1
+9,7840,HEADACHE,1,1
+9,7850,TACHYCARDIA NOS,1,1
+9,78550,SHOCK NOS,1,1
+9,78552,SEPTIC SHOCK,1,1
+10,D860,Sarcoidosis of lung,1,1
+10,E10649,Type 1 diabetes mellitus with hypoglycemia without coma,1,1
+10,E1122,Type 2 diabetes mellitus w diabetic chronic kidney disease,1,1
+10,E11621,Type 2 diabetes mellitus with foot ulcer,1,1
+10,E11649,Type 2 diabetes mellitus with hypoglycemia without coma,1,1
+10,E1165,Type 2 diabetes mellitus with hyperglycemia,1,1
+10,E162,"Hypoglycemia, unspecified",1,1
+10,E780,Pure hypercholesterolemia,1,1
+10,E785,"Hyperlipidemia, unspecified",1,1
+10,E872,Acidosis,1,1
+10,F10239,"Alcohol dependence with withdrawal, unspecified",1,1
+10,F28,Oth psych disorder not due to a sub or known physiol cond,1,1
+10,F419,"Anxiety disorder, unspecified",1,1
+10,G1221,Amyotrophic lateral sclerosis,1,1
+10,H16001,"Unspecified corneal ulcer, right eye",1,1
+10,H53143,"Visual discomfort, bilateral",1,1
+10,H5711,"Ocular pain, right eye",1,1
+10,H5713,"Ocular pain, bilateral",1,1
+10,H9312,"Tinnitus, left ear",1,1
+10,I120,Hyp chr kidney disease w stage 5 chr kidney disease or ESRD,1,1
+10,I129,Hypertensive chronic kidney disease w stg 1-4/unsp chr kdny,1,1
+10,I2692,Saddle embolus of pulmonary artery w/o acute cor pulmonale,1,1
+10,I2699,Other pulmonary embolism without acute cor pulmonale,1,1
+10,I469,"Cardiac arrest, cause unspecified",1,1
+10,I5040,Unsp combined systolic and diastolic (congestive) hrt fail,1,1
+10,I509,"Heart failure, unspecified",1,1
+10,I609,"Nontraumatic subarachnoid hemorrhage, unspecified",1,1
+10,I6201,Nontraumatic acute subdural hemorrhage,1,1
+10,I639,"Cerebral infarction, unspecified",1,1
+10,I7100,Dissection of unspecified site of aorta,1,1
+10,I81,Portal vein thrombosis,1,1
+10,I82622,Acute embolism and thrombosis of deep veins of l up extrem,1,1
+9,5589,NONINF GASTROENTERIT NEC,1,1
+9,56722,PERITONEAL ABSCESS,1,1
+9,5693,RECTAL & ANAL HEMORRHAGE,1,1
+9,56941,RECTAL & ANAL ULCER,1,1
+9,5728,"OTH SEQUELA, CHR LIV DIS",1,1
+9,5780,HEMATEMESIS,1,1
+9,5855,"CHRONIC KIDNEY DISEASE, STAGE V",1,1
+9,5859,"CHRONIC KIDNEY DISEASE, UNSPECIFIED",1,1
+9,6820,CELLULITIS OF FACE,1,1
+9,6827,CELLULITIS OF FOOT,1,1
+9,6869,LOCAL SKIN INFECTION NOS,1,1
+10,I959,"Hypotension, unspecified",1,1
+10,J181,"Lobar pneumonia, unspecified organism",1,1
+10,J90,"Pleural effusion, not elsewhere classified",1,1
+10,J9383,Other pneumothorax,1,1
+10,K3580,Unspecified acute appendicitis,1,1
+10,K5660,Unspecified intestinal obstruction,1,1
+10,K56609,"Unsp intestnl obst, unsp as to partial versus complete obst",1,1
+10,K7460,Unspecified cirrhosis of liver,1,1
+10,K859,"Acute pancreatitis, unspecified",1,1
+10,L03031,Cellulitis of right toe,1,1
+10,L03116,Cellulitis of left lower limb,1,1
+10,L97519,Non-prs chronic ulcer oth prt right foot w unsp severity,1,1
+10,L97529,Non-pressure chronic ulcer oth prt left foot w unsp severity,1,1
+10,M25562,Pain in left knee,1,1
+10,M3500,"Sicca syndrome, unspecified",1,1
+10,M542,Cervicalgia,1,1
+10,M545,Low back pain,1,1
+10,M549,"Dorsalgia, unspecified",1,1
+10,M79662,Pain in left lower leg,1,1
+10,N99518,Other cystostomy complication,1,1
+10,R05,Cough,1,1
+9,41400,"CAD UNSPEC VESSEL, NATIVE OR GRAFT",1,1
+9,42732,ATRIAL FLUTTER,1,1
+9,44102,DISS ABDOM AORTIC ANEURYSM,1,1
+9,46400,"ACUTE LARYNGITIS, WITHOUT MENTION OF OBSTRUCTION",1,1
+9,4659,ACUTE URI NOS,1,1
+9,5119,PLEURAL EFFUSION NOS,1,1
+9,5184,ACUTE LUNG EDEMA NOS,1,1
+9,51881,ACUTE RESPIRATORY FAILURE,1,1
+9,5409,ACUTE APPENDICITIS NOS,1,1
+9,5531,UMBILICAL HERNIA,1,1
+9,5579,VASC INSUFF INTEST NOS,1,1
+10,R0902,Hypoxemia,1,1
+10,R092,Respiratory arrest,1,1
+10,R110,Nausea,1,1
+10,R208,Other disturbances of skin sensation,1,1
+10,R42,Dizziness and giddiness,1,1
+10,R51,Headache,1,1
+10,R599,"Enlarged lymph nodes, unspecified",1,1
+10,R600,Localized edema,1,1
+10,R7881,Bacteremia,1,1
+10,S0181XA,"Laceration w/o foreign body of oth part of head, init encntr",1,1
+10,S0266XA,"Fracture of symphysis of mandible, init for clos fx",1,1
+10,S066X9A,"Traum subrac hem w LOC of unsp duration, init",1,1
+10,S098XXA,"Other specified injuries of head, initial encounter",1,1
+10,S12600A,"Unsp disp fx of seventh cervical vertebra, init for clos fx",1,1
+10,S22059A,"Unsp fracture of T5-T6 vertebra, init for clos fx",1,1
+10,S22069A,"Unsp fracture of T7-T8 vertebra, init for clos fx",1,1
+10,S2232XA,"Fracture of one rib, left side, init for clos fx",1,1
+10,S229XXA,"Fracture of bony thorax, part unsp, init for clos fx",1,1
+9,27651,DEHYDRATION,1,1
+9,2767,HYPERKALEMIA,1,1
+9,2859,ANEMIA NOS,1,1
+9,29181,ALCOHOL WITHDRAWAL,1,1
+9,29410,DEMENTIA IN CONDITIONS CLASSIFIED ELSEWHERE WITHOUT BEHAVIROAL DISTURBANCE,1,1
+9,30300,AC ALCOHOL INTOX-UNSPEC,1,1
+9,311,DEPRESSIVE DISORDER,1,1
+9,3310,ALZHEIMER'S DISEASE,1,1
+9,3453,GRAND MAL STATUS,1,1
+9,34830,"ENCEPHALOPATHY, UNSPECIFIED",1,1
+9,34889,OTHER CONDITIONS OF BRAIN,1,1
+9,37272,CONJUNCTIVAL HEMORRHAGE,1,1
+9,38010,INFEC OTITIS EXTERNA NOS,1,1
+10,S31614A,"Lac w/o fb of abd wall, left lower q w penet perit cav, init",1,1
+10,S72142A,"Displaced intertrochanteric fracture of left femur, init",1,1
+10,S82391A,"Oth fracture of lower end of right tibia, init for clos fx",1,1
+10,T383X1A,"Poisoning by insulin and oral hypoglycemic drugs, acc, init",1,1
+10,T814XXA,"Infection following a procedure, initial encounter",1,1
+10,T82520A,"Displacement of surgically created AV fistula, init",1,1
+10,T82594A,"Mech compl of infusion catheter, initial encounter",1,1
+10,T82868A,"Thrombosis due to vascular prosth dev/grft, init",1,1
+10,T82898A,"Oth complication of vascular prosth dev/grft, init",1,1
+10,T83098A,"Mech compl of other urinary catheter, initial encounter",1,1
+10,T8389XA,"Oth complication of genitourinary prosth dev/grft, init",1,1
+10,V4352XA,"Car driver injured in collision w car in traf, init",1,1
+10,V499XXA,"Car occupant (driver) (passenger) injured in unsp traf, init",1,1
+10,W109XXA,"Fall (on) (from) unspecified stairs and steps, init encntr",1,1
+10,W1809XA,"Striking against oth object w subsequent fall, init encntr",1,1

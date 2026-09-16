@@ -1,0 +1,3 @@
+scenario,days,hours,blank_hours,mean_if_blank_is_zero,mean_nonblank_only
+all_represented_days,1416,33984,2011,4.1785840395480225,4.4414036843586775
+exclude_four_one_arrival_days,1412,33888,1919,4.1903033522190745,4.441834276955801

@@ -1,0 +1,5 @@
+table,key,repeated_key_rows
+diagnosis,"stay_id,seq_num",0
+medrecon,"stay_id,charttime,name,etc_rn",38
+pyxis,"stay_id,charttime,med_rn,gsn_rn",0
+vitalsign,"stay_id,charttime",0

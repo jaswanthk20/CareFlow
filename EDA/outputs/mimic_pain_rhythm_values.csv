@@ -1,0 +1,68 @@
+table,column,value,records
+triage,pain,0,82
+triage,pain,8,22
+triage,pain,<missing>,21
+triage,pain,10,20
+triage,pain,5,19
+triage,pain,7,15
+triage,pain,9,8
+triage,pain,13,7
+triage,pain,4,5
+triage,pain,3,4
+triage,pain,unable,4
+triage,pain,UA,3
+triage,pain,2,3
+triage,pain,6,3
+triage,pain,Critical,2
+triage,pain,1,1
+triage,pain,o,1
+triage,pain,uta,1
+triage,pain,ett,1
+vitalsign,pain,0,355
+vitalsign,pain,<missing>,302
+vitalsign,pain,8,63
+vitalsign,pain,5,45
+vitalsign,pain,7,45
+vitalsign,pain,10,28
+vitalsign,pain,9,24
+vitalsign,pain,6,23
+vitalsign,pain,3,20
+vitalsign,pain,2,17
+vitalsign,pain,unable,17
+vitalsign,pain,4,16
+vitalsign,pain,asleep,16
+vitalsign,pain,sleeping,10
+vitalsign,pain,uta,8
+vitalsign,pain,denies,7
+vitalsign,pain,sleep,5
+vitalsign,pain,1,4
+vitalsign,pain,UA,4
+vitalsign,pain,does not scale,3
+vitalsign,pain,sedated,3
+vitalsign,pain,Critical,2
+vitalsign,pain,8.5,2
+vitalsign,pain,NAD,2
+vitalsign,pain,intubated,2
+vitalsign,pain,Asleep,2
+vitalsign,pain,sleepin,1
+vitalsign,pain,sleep ,1
+vitalsign,pain,laying down,1
+vitalsign,pain,standing ,1
+vitalsign,pain,sitting ,1
+vitalsign,pain,u,1
+vitalsign,pain,grimace with palpation,1
+vitalsign,pain,Unable,1
+vitalsign,pain,uncooperative,1
+vitalsign,pain,UTA,1
+vitalsign,pain,0/10,1
+vitalsign,pain,ett,1
+vitalsign,pain,ua,1
+vitalsign,rhythm,<missing>,1005
+vitalsign,rhythm,Sinus Rhythm,9
+vitalsign,rhythm,Atrial Fibrillation,8
+vitalsign,rhythm,Sinus Tachycardia,6
+vitalsign,rhythm,Normal Sinus Rhythm,3
+vitalsign,rhythm,afib,3
+vitalsign,rhythm,Paced Rhythm,2
+vitalsign,rhythm,Sinus Bradycardia,1
+vitalsign,rhythm,sr,1

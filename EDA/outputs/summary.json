@@ -1,0 +1,41 @@
+{
+  "dryad": {
+    "sheet_shape": [
+      107,
+      718
+    ],
+    "date_columns": 357,
+    "first_date": "2014-01-01",
+    "last_date": "2017-12-30",
+    "represented_days": 1416,
+    "expected_days": 1460,
+    "missing_dates": 44,
+    "missing_dates_at_month_end": 44,
+    "one_arrival_days": 4,
+    "represented_hours": 33984,
+    "blank_hours": 2011,
+    "total_arrivals": 142005,
+    "workbook_grand_total": 142005.0,
+    "explicit_zero_cells": 0,
+    "reconciliation_checks": 1876,
+    "checks_failed": 0
+  },
+  "mimic": {
+    "stays": 222,
+    "patients": 64,
+    "repeat_patients": 35,
+    "max_stays_per_patient": 23,
+    "shifted_first_arrival": "2112-09-17 18:46:00",
+    "shifted_last_departure": "2201-10-30 12:25:00",
+    "los_over_24h": 6,
+    "los_over_48h": 2,
+    "hadm_missing": 50
+  },
+  "verification": "Python and SQL agree on encounter count, mean LOS, total arrivals and all 24 hourly means.",
+  "runtime": {
+    "python": "3.12.14",
+    "pandas": "3.0.1",
+    "numpy": "2.5.3",
+    "matplotlib": "3.11.2"
+  }
+}

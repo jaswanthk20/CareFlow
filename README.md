@@ -8,6 +8,33 @@ The main idea is to investigate whether historical ED arrival patterns and patie
 
 ---
 
+## Exploratory Data Analysis Findings
+
+The first reproducible EDA pass was run on the extracted files in `Dataset/` using [`EDA/run_eda.py`](EDA/run_eda.py) and checked independently with [`EDA/verify_eda.py`](EDA/verify_eda.py). Generated tables, figures, the SQLite database, source hashes, and the full computed report are in [`EDA/outputs/`](EDA/outputs/). Raw files were not modified.
+
+### Data inventory, grain, and provenance
+
+Dryad is an hourly-of-day-by-date workbook covering 2014-01-01 through 2017-12-30: 1,416 represented days, 44 absent dates (all month-end), 33,984 represented hour cells, 2,011 blank cells, and 142,005 observed arrivals. Blank cells were retained rather than silently converted to zero; all 1,876 reconciliation checks passed.
+
+MIMIC-IV-ED demo contains 222 ED stays for 64 unique patients (`edstays` is stay-level; event tables are one-to-many by `stay_id`). Exact duplicate rows were zero in all six CSV tables and references were internally consistent. Thirty-five patients had repeat stays; the maximum was 23. `hadm_id` is missing for 50 stays (22.5%).
+
+### Arrival patterns and forecasting relevance
+
+The 31,973 nonblank Dryad hours have mean 4.441, median 4, p95 9, and maximum 19 arrivals. Daily totals average 100.286 (p95 128; maximum 153). Hourly means rise from 1.965 at 04:00 to 5.851 at 12:00, peak at 6.039 at 17:00, and fall to 3.533 at 23:00. Day-of-week means range 4.264–4.711; annual mean rises from 3.972 in 2014 to 4.984 in 2017. Six-, 12-, and 24-hour future totals average 25.107, 50.240, and 100.333. Lag correlations are 0.414 (1h), 0.013 (6h), -0.280 (12h), 0.415 (24h), and 0.417 (168h), supporting calendar/seasonal baselines and drift-aware validation.
+
+### Patient flow, LOS, triage, and disposition
+
+MIMIC LOS ranges from 0.067 to 74.333 hours (mean 8.096, median 5.842, p90 15.720); six stays exceed 24 hours and two exceed 48 hours. Disposition is 150 admitted (67.6%), 60 home (27.0%), and 12 other. Mean LOS is 6.705 hours for admitted, 10.109 for home, and 30.857 for transfer (five stays). Acuity is mostly 2 (97 stays) or 3 (90); 15 are missing. Mean LOS is 4.306, 8.510, and 9.067 hours for acuity 1, 2, and 3 respectively. Arrival transport is 133 ambulance and 75 walk-in; mean LOS is 8.646 versus 8.048 hours.
+
+### Data quality and leakage risks
+
+Missingness is concentrated in triage vitals (about 10–12%), vital-sign temperature (44.2%), rhythm (96.8%), and pain (29.1%). Pain mixes numeric scores with text such as `unable`, `UTA`, `asleep`, and `sedated`. One triage and one vital-sign record fail the simple SBP ≥ DBP screen. Medication/Pyxis events include records after `outtime`; event rows are not arrival-time predictors by default. Final diagnosis, completed treatments, later medication administrations, disposition, and realized `outtime` are leakage for an earlier real-time forecast.
+
+### Limitations and next steps
+
+Dryad and MIMIC are different healthcare environments and are not patient-level join partners. MIMIC is a small demo subset with repeat patients and shifted dates; Dryad has incomplete month-end coverage and blank cells. Next, run rolling time-split 6/12/24-hour backtests, build arrival-time-only LOS/disposition features with patient-grouped validation, and define occupancy as active stays + forecast arrivals − modeled departures before simulation.
+
+---
 ## Project Idea
 
 Emergency Department congestion is influenced by more than just the number of new patients arriving.
@@ -243,3 +270,5 @@ The project is currently exploratory, and the methodology will evolve as the dat
 CareFlow is an independent research and portfolio project.
 
 It is not a clinical decision-support system and is not intended for use in real-world medical or hospital operational decisions.
+
+

@@ -1,0 +1,4 @@
+table,column,zero_as_missing,blank_or_zero,rows
+medrecon,gsn,4,4,2764
+medrecon,ndc,15,15,2764
+pyxis,gsn,0,32,1082

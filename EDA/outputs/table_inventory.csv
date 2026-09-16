@@ -1,0 +1,7 @@
+table,rows,columns,exact_duplicate_rows
+edstays,222,9,0
+triage,222,11,0
+diagnosis,545,6,0
+medrecon,2764,9,0
+pyxis,1082,7,0
+vitalsign,1038,11,0

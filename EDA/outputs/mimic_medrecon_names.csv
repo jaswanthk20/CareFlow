@@ -1,0 +1,491 @@
+name,records,stays
+aspirin,122,61
+furosemide,55,54
+levothyroxine,51,51
+atorvastatin,49,49
+lisinopril,42,42
+cholecalciferol (vitamin D3),39,38
+oxycodone,37,37
+multivitamin,31,31
+pantoprazole,31,31
+metformin,31,31
+amlodipine,28,28
+ferrous sulfate,28,28
+metoprolol succinate,31,27
+gabapentin,28,27
+docusate sodium,25,25
+omeprazole,25,25
+lidocaine,24,24
+melatonin,32,24
+metoprolol tartrate,23,23
+torsemide,21,21
+magnesium oxide,22,21
+losartan,20,20
+albuterol sulfate,20,20
+sennosides [senna],20,20
+allopurinol,20,20
+fluoxetine,22,20
+hydrocodone-acetaminophen,38,19
+ziprasidone HCl,38,19
+acyclovir,19,19
+fluticasone,18,18
+cyanocobalamin (vitamin B-12),18,18
+fenofibrate,18,18
+nystatin-triamcinolone,18,18
+warfarin,18,18
+lorazepam,34,17
+albuterol sulfate [ProAir HFA],17,17
+trazodone,18,17
+insulin glargine [Lantus],16,16
+insulin lispro [Humalog KwikPen],16,16
+spironolactone,30,15
+simvastatin,15,15
+digoxin,14,14
+ondansetron,13,13
+acetaminophen,13,13
+divalproex [Depakote],46,12
+escitalopram oxalate,12,12
+metolazone,12,12
+bupropion HCl,12,12
+sulfamethoxazole-trimethoprim,11,11
+triamcinolone acetonide,11,11
+famotidine,11,11
+ibuprofen,11,11
+carvedilol,11,11
+ezetimibe [Zetia],11,11
+polyethylene glycol 3350 [Miralax],10,10
+potassium chloride,10,10
+blood-glucose meter [FreeStyle Freedom Lite],20,10
+alprazolam,20,10
+lamotrigine,10,10
+cyanocobalamin (vitamin B-12) [Vitamin B-12],10,10
+insulin glargine [Lantus Solostar],10,10
+Lantus,10,10
+methylprednisolone,10,10
+propranolol,10,10
+paroxetine HCl,9,9
+blood sugar diagnostic [FreeStyle Lite Strips],18,9
+tramadol,9,9
+clopidogrel,9,9
+calcium carbonate,11,9
+lactulose,9,9
+docusate sodium [Colace],9,9
+acetaminophen [Mapap (acetaminophen)],8,8
+Vitamin D,8,8
+rifaximin [Xifaxan],8,8
+ranitidine HCl,8,8
+irbesartan,8,8
+calcium carbonate-vitamin D3 [Calcium 600 + D(3)],8,8
+"multivitamin,tx-minerals",8,8
+nystatin,8,8
+amiodarone,8,8
+febuxostat [Uloric],8,8
+Mapap (acetaminophen),7,7
+risperidone,14,7
+loratadine,14,7
+Lipitor,7,7
+insulin lispro [Humalog],7,7
+hydrochlorothiazide,7,7
+epinephrine,7,7
+blood sugar diagnostic [OneTouch Verio],14,7
+blood-glucose meter [Blood Glucose Monitoring],14,7
+midodrine,7,7
+multivitamin [Daily Multiple],7,7
+mirtazapine,7,7
+buspirone,7,7
+alcohol swabs,7,7
+sucralfate,7,7
+"pen needle, diabetic [Pen Needle]",14,7
+Spiriva with HandiHaler,7,7
+epoetin alfa [Procrit],6,6
+"nut.tx.imp.renal fxn,lac-reduc [Nepro Carb Steady]",6,6
+olanzapine,12,6
+nicotine,6,6
+atenolol,6,6
+Lantus Solostar,6,6
+clotrimazole [Clotrimazole AF],6,6
+losartan-hydrochlorothiazide,6,6
+sildenafil,6,6
+Fish Oil,6,6
+camphor-menthol [Anti-Itch (menthol/camphor)],6,6
+Levoxyl,6,6
+bisacodyl [Dulcolax (bisacodyl)],6,6
+Levothroid,6,6
+glipizide,6,6
+folic acid,5,5
+zolpidem,5,5
+ondansetron HCl,5,5
+amitriptyline,6,5
+pravastatin,5,5
+prednisone,5,5
+polyethylene glycol 3350,5,5
+Tylenol,5,5
+clobetasol,5,5
+calcium carbonate-vitamin D3 [Calcium+D],5,5
+raltegravir [Isentress],5,5
+insulin needles (disposable) [BD Insulin Pen Needle UF Short],10,5
+hydralazine,5,5
+hydroxyzine HCl,6,5
+Aspir-81,10,5
+capsaicin,5,5
+emtricitabine-tenofovir [Truvada],5,5
+insulin glargine [Lantus Solostar U-100 Insulin],5,5
+insulin lispro,5,5
+Calcium 500 + D,4,4
+ergocalciferol (vitamin D2),4,4
+insulin asp prt-insulin aspart [Novolog Mix 70-30FlexPen U-100],4,4
+fentanyl,4,4
+Coumadin,5,4
+aspirin [Adult Low Dose Aspirin],8,4
+methimazole,4,4
+oxycodone-acetaminophen,8,4
+simethicone,4,4
+Seroquel,12,4
+prochlorperazine maleate,8,4
+calcium carbonate-vitamin D3,4,4
+conjugated estrogens [Premarin],4,4
+diltiazem HCl,4,4
+insulin regular human,4,4
+isosorbide mononitrate,4,4
+ipratropium bromide,4,4
+lorazepam [Ativan],8,4
+carbamide peroxide [Ear Wax Removal Kit],4,4
+bisacodyl,4,4
+rivaroxaban,4,4
+Multivitamin,4,4
+tiotropium bromide [Spiriva with HandiHaler],4,4
+tamoxifen,4,4
+Xarelto,4,4
+amino acids-protein hydrolys [LiquaCel 100],4,4
+Vitamin D3,3,3
+metformin [Glucophage],3,3
+sennosides,3,3
+rosuvastatin,3,3
+sennosides [Senna Lax],3,3
+rosuvastatin [Crestor],3,3
+Prilosec,3,3
+Synthroid,3,3
+nitroglycerin,3,3
+ProAir HFA,3,3
+topiramate,3,3
+Aspirin,6,3
+hydromorphone,3,3
+sevelamer carbonate,3,3
+Calcium,3,3
+Avapro,3,3
+levothyroxine [Levo-T],3,3
+Laxative (bisacodyl),3,3
+blood sugar diagnostic [OneTouch Ultra Test],6,3
+clonidine,3,3
+dextrose [Glucose Bits],3,3
+diltiazem HCl [DILT-XR],3,3
+diltiazem HCl [Cartia XT],3,3
+guaifenesin,3,3
+heparin (porcine),3,3
+Colace,3,3
+hydroxyurea,3,3
+levothyroxine [Levothroid],3,3
+desonide,3,3
+cholecalciferol (vitamin D3) [Vitamin D3],3,3
+mv with min-lycopene-lutein [Centrum Silver],3,3
+vit C-vit E-lutein-min-om-3 [Ocuvite],6,3
+fluticasone [Flovent HFA],3,3
+"pen needle, diabetic [BD Insulin Pen Needle UF Mini]",6,3
+peg 3350-electrolytes,3,3
+albuterol sulfate [Ventolin HFA],3,3
+Novolog Mix 70-30,3,3
+clotrimazole-betamethasone,3,3
+iron,3,3
+dexamethasone,3,3
+lenalidomide [Revlimid],3,3
+divalproex,11,3
+lancets,6,3
+Senna Laxative,3,3
+Zetia,3,3
+psyllium husk [Metamucil],3,3
+vitamin E,2,2
+"pen needle, diabetic [BD Ultra-Fine Nano Pen Needle]",4,2
+Motrin,2,2
+Renvela,2,2
+"pen needle, diabetic [BD Ultra-Fine Mini Pen Needle]",4,2
+tamsulosin [Flomax],2,2
+warfarin [Coumadin],2,2
+sulfamethoxazole-trimethoprim [Bactrim],2,2
+zinc sulfate,2,2
+gemfibrozil,2,2
+sodium bicarbonate,2,2
+spironolactone [Aldactone],4,2
+sucralfate [Carafate],2,2
+tiotropium bromide,2,2
+tizanidine,2,2
+venetoclax,2,2
+Klor-Con 10,2,2
+Zyprexa,4,2
+Sensipar,2,2
+Zoloft,2,2
+Wellbutrin SR,2,2
+Phillips Milk of Magnesia,2,2
+Procrit,2,2
+Os-Cal 500 + D,2,2
+omeprazole [Prilosec],2,2
+ofloxacin,2,2
+nifedipine,2,2
+Tylenol Extra Strength,2,2
+Triphrocaps,2,2
+senna,2,2
+budesonide [Pulmicort Flexhaler],2,2
+amoxicillin,2,2
+ascorbic acid,2,2
+calcitriol,4,2
+blood-glucose meter [OneTouch Ultra2],4,2
+brimonidine,2,2
+magnesium hydroxide [Milk of Magnesia],2,2
+methadone,2,2
+methylphenidate,4,2
+baclofen,2,2
+prasugrel [Effient],2,2
+pregabalin [Lyrica],4,2
+Nicorette,2,2
+NPH insulin human recomb [Novolin N],2,2
+morphine [MS Contin],2,2
+quetiapine,4,2
+Natural Calcium,2,2
+prasugrel,2,2
+Levaquin,2,2
+blood sugar diagnostic [OneTouch Ultra Blue Test Strip],4,2
+clindamycin HCl,2,2
+cefepime,2,2
+chlorpromazine,2,2
+clonazepam,6,2
+calcium acetate,4,2
+loperamide,2,2
+lipase-protease-amylase [Pancrelipase 5000],2,2
+levothyroxine [Euthyrox],2,2
+carbamazepine,4,2
+calcium carbonate-vit D3-min,2,2
+calcium carbonate [Antacid (calcium carbonate)],2,2
+irbesartan [Avapro],2,2
+colchicine,2,2
+levofloxacin,2,2
+levetiracetam,2,2
+clarithromycin,2,2
+enalapril maleate,2,2
+ferrous sulfate [iron],2,2
+Crestor,2,2
+epoetin alfa [Epogen],2,2
+diphenhydramine HCl [Benadryl],4,2
+insulin detemir [Levemir],2,2
+insulin detemir [Levemir Flexpen],2,2
+insulin lispro [Humalog KwikPen Insulin],2,2
+duloxetine [Cymbalta],6,2
+fluoxetine [Prozac],2,2
+finasteride,2,2
+Calcium 600 + D(3),2,2
+Celexa,2,2
+Fleet Enema,2,2
+febuxostat,2,2
+Hydrocortisone,2,2
+Januvia,2,2
+Humalog KwikPen,2,2
+Bisac-Evac,2,2
+sertraline,2,2
+hydromorphone [Dilaudid],2,2
+BD Insulin Pen Needle UF Short,4,2
+B complex with C#20-folic acid [Nephrocaps],2,2
+Ativan,6,2
+Artificial Tears,2,2
+Antacid,2,2
+Advair Diskus,2,2
+Aldactone,2,1
+Alprazolam,2,1
+Ambien,1,1
+AndroGel,1,1
+Apri,1,1
+Bayer Aspirin,2,1
+Biotene Oralbalance,1,1
+topiramate [Topamax],1,1
+torsemide [Demadex],1,1
+vancomycin,1,1
+voriconazole,1,1
+Adderall XR,2,1
+fluticasone [Flonase Allergy Relief],1,1
+fluticasone [Flonase],1,1
+fluticasone propionate,1,1
+fluticasone-salmeterol,1,1
+gentamicin,1,1
+glucagon (human recombinant) [Glucagon Emergency Kit (human)],1,1
+glucosamine-chondroitin,1,1
+glutamine,1,1
+glyburide,1,1
+glycine,1,1
+hydrocortisone,1,1
+hydrocortisone-pramoxine,1,1
+hydroxyurea [Hydrea],1,1
+ibrutinib,2,1
+ibuprofen [Advil],1,1
+insulin asp prt-insulin aspart,1,1
+ferrous gluconate,1,1
+ferrous sulfate [FerrouSul],1,1
+fluconazole,1,1
+fluocinonide,1,1
+fluorometholone,1,1
+enoxaparin,1,1
+enoxaparin [Lovenox],1,1
+epinephrine [Auvi-Q],1,1
+epoetin alfa,1,1
+estradiol,1,1
+etanercept,2,1
+ezetimibe,1,1
+insulin asp prt-insulin aspart [Novolog Mix 70-30],1,1
+insulin aspart [Novolog Flexpen],1,1
+insulin detemir [Levemir FlexTouch],1,1
+insulin glargine,1,1
+digoxin [Digitek],1,1
+diphenoxylate-atropine,1,1
+docosahexanoic acid-epa [Fish Oil],1,1
+docusate calcium,1,1
+docusate sodium [Stool Softener],1,1
+doxazosin,1,1
+doxycycline hyclate,1,1
+ipratropium bromide [Atrovent HFA],1,1
+isosorbide dinitrate,1,1
+ketoconazole,1,1
+ketorolac,1,1
+codeine-guaifenesin,1,1
+coenzyme Q10,1,1
+colchicine [Colcrys],1,1
+collagenase clostridium histo. [Santyl],1,1
+cyclobenzaprine,1,1
+dabigatran etexilate [Pradaxa],1,1
+dextroamphetamine-amphetamine [Adderall XR],2,1
+ceftriaxone,1,1
+cetirizine,2,1
+chlorpheniramine maleate,2,1
+ciprofloxacin HCl,1,1
+citalopram,1,1
+clonidine HCl,1,1
+calcium,1,1
+calcium carbonate-vitamin D3 [Calcium 500 + D],1,1
+calcium gluconate,1,1
+carbamide peroxide,1,1
+linezolid [Zyvox],1,1
+liraglutide [Victoza 3-Pak],1,1
+lysine,1,1
+magnesium citrate,1,1
+boric acid,1,1
+budesonide-formoterol [Symbicort],1,1
+ammonium chloride,2,1
+amoxicillin-pot clavulanate,1,1
+apixaban,1,1
+aspirin [Enteric Coated Aspirin],2,1
+atorvastatin [Lipitor],1,1
+benzocaine-menthol,1,1
+benzonatate,1,1
+beta carotene,1,1
+biotin,1,1
+meclizine,1,1
+methenamine hippurate,2,1
+metoprolol tartrate [Lopressor],1,1
+metronidazole,1,1
+acetaminophen-codeine,1,1
+acetazolamide,1,1
+alendronate,1,1
+amantadine HCl,1,1
+micafungin [Mycamine],1,1
+miconazole,1,1
+miconazole nitrate,1,1
+morphine,1,1
+moxifloxacin [Vigamox],1,1
+multivitamin [Daily Multi-Vitamin],1,1
+multivitamin [One-A-Day Essential],1,1
+"multivitamin,tx-iron-minerals [Thera-M]",1,1
+naproxen,1,1
+Valtrex,1,1
+Vasotec,1,1
+Victoza,1,1
+Vitamin B-12,1,1
+Vitamin C,1,1
+Vitamin D-3,1,1
+Warfarin,1,1
+Xiaflex,1,1
+Revlimid,1,1
+Robafen DM Cough-Chest Congest,1,1
+Simvastatin,1,1
+TPN Electrolytes,1,1
+Toprol XL,1,1
+Truvada,1,1
+Tylenol Ex Str Rapid Release,1,1
+Uloric,1,1
+norethindrone-e.estradiol-iron [Junel FE 1.5/30 (28)],1,1
+One Daily Multivitamin,1,1
+One-A-Day Vitacraves Immunity,1,1
+Paroxetine HCl,1,1
+Plavix,1,1
+Prezista,1,1
+Probiotic Blend,1,1
+Proventil HFA,1,1
+Pulmicort Flexhaler,1,1
+Remeron,1,1
+Rena-Vite,1,1
+peg 3350-electrolytes-vit C,1,1
+"pen needle, diabetic [BD Ultra-Fine Nano Pen Needles]",2,1
+phenazopyridine,1,1
+phosphatidylcholine (bulk),2,1
+pilocarpine HCl,1,1
+polyethyl glycol-polyvinyl alc,1,1
+potassium,1,1
+Miralax,1,1
+Mucinex,1,1
+Multiple Vitamins,1,1
+Neurontin,2,1
+Niacin Flush Free,1,1
+Nitrostat,1,1
+Norco,2,1
+Norvir,1,1
+Novolin 70-30 FlexPen U-100,1,1
+potassium chloride [Klor-Con M10],1,1
+potassium chloride [Klor-Con M20],1,1
+"potassium, sodium phosphates [Phos-NaK]",1,1
+prednisolone acetate,1,1
+pregabalin,2,1
+promethazine,3,1
+pseudoephedrine HCl,1,1
+Lantus Solostar U-100 Insulin,1,1
+Lantus U-100 Insulin,1,1
+Lasix,1,1
+Lexapro,1,1
+Lidoderm,1,1
+Lisinopril,1,1
+Lovenox,1,1
+Lyrica,2,1
+rifaximin,1,1
+saccharomyces boulardii [Florastor],1,1
+selenium,1,1
+Flagyl,1,1
+Flomax,1,1
+Florastor,1,1
+Genvoya,1,1
+Glipizide,1,1
+High Potency Calcium,1,1
+Humalog U-100 Insulin,1,1
+Itch Relief (clotrimazole),1,1
+Keflex,1,1
+Keppra,1,1
+Klonopin,3,1
+Centrum Silver,1,1
+Coreg,1,1
+Cymbalta,2,1
+Depakote,2,1
+Depakote ER,3,1
+Digestive Probiotic,1,1
+Dilaudid,1,1
+Ecotrin Low Strength,2,1
+simethicone [Gas Relief 80],1,1
+sodium phosphates [Fleet Enema],1,1
+tetrahydrozoline-zinc,1,1
+thiamine HCl (vitamin B1),1,1
+*nutrient drink ,1,1
+*iron liquid ,1,1
+*depakote DR,1,1
+*acuvite,1,1
+zoster vaccine live (PF) [Zostavax (PF)],2,1
