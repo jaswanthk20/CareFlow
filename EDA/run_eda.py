@@ -333,7 +333,7 @@ def main():
         tables[name]=df.replace(r"^\s*$",np.nan,regex=True)
     manifest=[]
     for p in sorted(data.rglob("*")):
-        if p.is_file():
+        if p.is_file() and 'processed' not in p.relative_to(data).parts:
             manifest.append(dict(path=str(p.relative_to(root)),bytes=p.stat().st_size,
                                  sha256=hashlib.file_digest(p.open("rb"),"sha256").hexdigest()))
     save_table(out,"source_manifest",pd.DataFrame(manifest))

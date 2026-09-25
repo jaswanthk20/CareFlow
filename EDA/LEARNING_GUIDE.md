@@ -2,7 +2,7 @@
 
 ## Reproduce the analysis
 
-From the CareFlow project folder, with Python 3.10 or newer:
+From the CareFlow project folder, with Python 3.11 or newer:
 
 ```powershell
 python -m venv EDA/.venv
@@ -39,3 +39,7 @@ The script reads `Dataset/`, regenerates `EDA/outputs/`, and leaves raw files an
 ## Changes to raw-data organization
 
 `Datasets/` was renamed to the requested `Dataset/`. Source files, their extraction subfolders, the license, and the supplied checksum file were preserved. Recursive discovery handles the existing `edstays.csv/edstays.csv` style paths. No downloads were necessary because both datasets were already extracted.
+
+## Audit extension
+
+After the existing EDA run, execute python EDA/verify_eda.py, python EDA/audit_careflow.py and python EDA/verify_audit.py. The audit extension regenerates the README EDA section from outputs while preserving its introduction. Its observed calendar retains missing hours and distinguishes absent date columns, dates without totals and blank hour cells. Existing zero-assumption outputs remain legacy sensitivity results. See Documentation/PROJECT_AUDIT.md and Documentation/SIMULATION_INPUT_REVIEW.md for unresolved questions.

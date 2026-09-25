@@ -1,0 +1,10 @@
+{
+  "calendar_hours": 35040,
+  "observed_hours": 31973,
+  "unknown_hours": 3067,
+  "longest_observed_run_hours": 165,
+  "high_screen_flags": 26,
+  "high_flags_with_adjacent_flag": 0,
+  "mimic_admitted_disposition_stays": 150,
+  "mimic_linked_hospital_stays": 172
+}

@@ -1,0 +1,43 @@
+file,line,term,review
+README.md,47,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+README.md,102,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+validate_project.py,113,todo,Search-pattern definition or explicit prohibition; inspect file and line.
+validate_project.py,113,fixme,Search-pattern definition or explicit prohibition; inspect file and line.
+validate_project.py,113,placeholder,Search-pattern definition or explicit prohibition; inspect file and line.
+validate_project.py,113,dummy,Search-pattern definition or explicit prohibition; inspect file and line.
+validate_project.py,113,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+validate_project.py,113,fake,Search-pattern definition or explicit prohibition; inspect file and line.
+validate_project.py,113,hardcoded,Search-pattern definition or explicit prohibition; inspect file and line.
+validate_project.py,113,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+validate_project.py,126,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+validate_project.py,127,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+validate_project.py,127,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+validate_project.py,127,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+validate_project.py,127,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+Documentation\build_documentation.py,85,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+Documentation\PROJECT_AUDIT.md,32,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+Documentation\PROJECT_AUDIT.md,32,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+Documentation\PROJECT_AUDIT.md,32,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+EDA\audit_careflow.py,128,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+EDA\audit_careflow.py,175,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+EDA\audit_careflow.py,175,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+EDA\audit_careflow.py,175,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+EDA\LEARNING_GUIDE.md,30,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+EDA\LEARNING_GUIDE.md,32,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+EDA\LEARNING_GUIDE.md,35,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+EDA\patient_flow.py,52,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+EDA\run_eda.py,176,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+EDA\run_eda.py,230,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+EDA\run_eda.py,295,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+EDA\run_eda.py,304,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+Forecasting\run_forecasting.py,198,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+Forecasting\run_forecasting.py,207,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+Tableau\prepare_data.py,61,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."
+Dataset\mimic-iv-ed-demo-2.2\LICENSE.txt,80,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+Dataset\mimic-iv-ed-demo-2.2\LICENSE.txt,200,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+EDA\outputs\computed_report.md,77,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+EDA\outputs\computed_report.md,111,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+EDA\outputs\computed_report.md,390,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+EDA\outputs\computed_report.md,398,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+Forecasting\outputs\methodology.json,7,temp,"Temperature, temporal terminology or variable text; not a temporary deliverable."
+Tableau\dashboard_data\README.md,7,sample,"Sampling, resampling or selected-demo terminology; inspect context for empirical versus hypothetical use."

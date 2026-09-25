@@ -1,0 +1,31 @@
+{
+  "status": "hypothetical_experiment",
+  "authorization_context": "Built after the project owner reviewed the missing-input report and instructed: Please go ahead and build everything.",
+  "replications": 80,
+  "measured_hours": 24,
+  "warmup_days": 7,
+  "warmup_sensitivity_days": [3, 14],
+  "arrival_multipliers": [0.8, 1.2],
+  "scenarios": {
+    "baseline": {},
+    "treatment_capacity_20": {"treatment_capacity": 20},
+    "triage_capacity_3": {"triage_capacity": 3},
+    "boarding_duration_half": {"boarding_scale": 0.5},
+    "treatment_duration_minus20pct": {"treatment_scale": 0.8},
+    "capacity_12_sensitivity": {"treatment_capacity": 12},
+    "treatment_duration_plus25pct": {"treatment_scale": 1.25},
+    "boarding_duration_plus50pct": {"boarding_scale": 1.5}
+  },
+  "arrivals": "Poisson counts and uniform within-hour times; repeat an archival 24-hour forecast profile for warmup, then measure one cycle. This is not observed hospital demand.",
+  "parameters": [
+    {"name": "triage_capacity", "baseline": 2, "unit": "generic servers", "type": "assumption", "support": "analyst-defined teaching experiment; no hospital or literature calibration", "sensitivity": [2, 3], "influence": "limits triage concurrency"},
+    {"name": "triage_duration", "baseline": 8, "cv": 0.3, "unit": "minutes", "distribution": "lognormal, coefficient of variation 0.3", "type": "assumption", "support": "analyst-defined", "influence": "controls triage workload; not an observed triage duration"},
+    {"name": "treatment_capacity", "baseline": 16, "unit": "generic resources", "type": "assumption", "support": "analyst-defined", "sensitivity": [12, 16, 20], "influence": "controls treatment and boarding concurrency; does not map directly to staff headcount"},
+    {"name": "treatment_duration", "baseline": 2, "cv": 0.75, "unit": "hours", "distribution": "lognormal, coefficient of variation 0.75", "type": "assumption", "support": "analyst-defined; not derived from ED LOS", "sensitivity": [1.6, 2, 2.5], "influence": "determines treatment resource workload"},
+    {"name": "boarding_duration", "baseline": 2, "cv": 1, "unit": "hours on admitted path", "distribution": "lognormal, coefficient of variation 1", "type": "assumption", "support": "analyst-defined; no boarding timestamps in local sources", "sensitivity": [1, 2, 3], "influence": "holds treatment resource after treatment; can create downstream pressure by construction"},
+    {"name": "admitted_path_probability", "baseline": "computed from MIMIC demo ADMITTED disposition", "type": "empirical_demo_distribution_transferred_as_assumption", "support": "mimic_by_disposition.csv", "influence": "selected demo may overrepresent hospital admissions; not a probability for the Dryad hospital"},
+    {"name": "initial_census", "baseline": 0, "unit": "patients at warmup start", "type": "assumption", "support": "analyst-defined", "influence": "warmup reduces but does not prove removal of empty-start bias"},
+    {"name": "routing", "baseline": "arrival, FIFO triage, FIFO treatment, disposition, exit; admitted path retains resource while boarding", "type": "assumption", "support": "simplified operational teaching model", "influence": "no abandonment, acuity priority, staff schedules, blocking bed queue or fast-track mechanism"}
+  ],
+  "interpretation": "Results describe this architecture and these scenario parameters only. Monte Carlo intervals omit structural and parameter uncertainty. No optimal staffing, actual hospital bottleneck or patient benefit is claimed."
+}

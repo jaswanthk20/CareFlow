@@ -1,0 +1,20 @@
+dataset,source,rows,grain,record_type
+forecast_path,Forecasting/outputs/archival_forecast_path.csv,24,"origin, horizon_hours",model prediction
+forecast_backtest,Forecasting/outputs/predictions.csv,38201,"origin, horizon_hours, split",observed target and model prediction
+model_metrics,Forecasting/outputs/model_metrics.csv,672,"horizon_hours, split, model",derived evaluation
+selected_models,Forecasting/outputs/selected_models.csv,24,horizon_hours,validation selection
+forecast_errors,Forecasting/outputs/error_segments.csv,99,"horizon_hours, dimension, value",derived evaluation
+forecast_intervals,Forecasting/outputs/interval_coverage.csv,3,horizon_hours,derived evaluation
+patient_flow,EDA/outputs/mimic_cluster_uncertainty.csv,17,"dimension, group",derived demo distribution
+los_histogram,EDA/outputs/mimic_los_histogram.csv,8,los_band_hours,derived demo distribution
+acuity_disposition,EDA/outputs/mimic_empirical_joint_distribution.csv,15,"acuity, disposition",derived demo distribution
+simulation_scenarios,Simulation/outputs/scenario_summary.csv,90,"scenario, metric",hypothetical simulation output
+simulation_timeline,Simulation/outputs/simulation_timeline.csv,240,"scenario, hour",hypothetical simulation output
+simulation_load,Simulation/outputs/scenario_load.csv,10,scenario,derived hypothetical offered workload
+table_inventory,EDA/outputs/table_inventory.csv,6,table,data quality
+column_quality,EDA/outputs/column_quality.csv,53,"table, column",data quality
+hourly_demand,EDA/outputs/dryad_calendar_observed.csv,35040,timestamp,observed count or unknown
+demand_heatmap,Tableau/dashboard_queries.sql,168,"weekday, hour",derived observed-only demand
+demand_hour,Tableau/dashboard_queries.sql,24,hour,derived observed-only demand
+demand_month,Tableau/dashboard_queries.sql,48,month,derived observed-only demand
+demand_week,Tableau/dashboard_queries.sql,209,week_start,derived observed-only demand

@@ -1,0 +1,16 @@
+{
+  "conservation_all_runs": true,
+  "treatment_intervention_pathwise_monotonicity": true,
+  "triage_queue_pathwise_monotonicity": true,
+  "triage_total_wait_increase_runs": 8,
+  "triage_order_effect": "Triage server count can reorder entry to treatment; different service lengths may increase total wait in individual runs even when triage wait falls.",
+  "replications": 80,
+  "admitted_disposition_probability_demo": 0.6756756756756757,
+  "mean_hourly_arrival_rate_from_archival_forecast": 3.9258436660876854,
+  "forecast_origin": "2017-08-30",
+  "hospital_calibrated": false,
+  "uncertainty_scope": "Monte Carlo only. Parameter, forecast and population uncertainty not included.",
+  "queue_priority": "FIFO after triage; no acuity-based service effects",
+  "censoring": "Window-arrival patients followed through completion, including after window end",
+  "arrival_stress_mean_wait_nondecreasing": true
+}

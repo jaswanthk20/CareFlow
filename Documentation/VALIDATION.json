@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "source_hashes_unchanged": true,
+    "forecast_targets_match_source_and_horizon": true,
+    "chronological_boundaries_and_error_metrics": true,
+    "saved_modeling_rows_and_available_lags_reconcile": true,
+    "future_perturbation_does_not_change_prior_origin_predictions": true,
+    "hand_calculated_two_patient_queue": true,
+    "all_simulation_runs_conserve_patients_and_reconcile": true,
+    "tableau_extracts_reconcile_and_exclude_patient_fields": true,
+    "seven_mockup_images_with_specifications": true,
+    "readme_forecast_numbers_match_generated_outputs": true,
+    "text_scan_no_matching_secret_patterns_or_forbidden_format": true,
+    "historical_text_blobs_no_matching_secret_patterns": true,
+    "tracked_raw_mimic_is_named_demo_only": true,
+    "history_filename_scan_no_restricted_data_indicators": true
+  },
+  "all_passed": true,
+  "search_occurrences_reviewed": 42,
+  "potential_secret_files": [],
+  "historical_text_blobs_scanned": 60,
+  "historical_potential_secret_paths": [],
+  "history_paths_for_review": [],
+  "privacy_scope": "Working-tree text and CSV pattern scan, historical text/CSV blob pattern scan and history filename review; not a security certification or binary-content review.",
+  "simulation_scope": "Hypothetical experiment; structural and parameter validity not established for a hospital."
+}

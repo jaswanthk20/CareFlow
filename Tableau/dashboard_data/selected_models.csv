@@ -1,0 +1,25 @@
+horizon_hours,model,best_baseline,selection_baseline_mae,selection_advanced_mae,calibration_absolute_error_q90,selection_rule
+1,weekday_hour_mean,weekday_hour_mean,1.5635195543784586,1.5802572785159374,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+2,weekday_hour_mean,weekday_hour_mean,1.5635870368601237,1.580478614975756,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+3,weekday_hour_mean,weekday_hour_mean,1.5637404654682614,1.5814379938729006,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+4,weekday_hour_mean,weekday_hour_mean,1.563351232109495,1.5803338797290762,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+5,weekday_hour_mean,weekday_hour_mean,1.5635186316405842,1.5787994919913642,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+6,weekday_hour_mean,weekday_hour_mean,1.563622948960924,1.5785372267741746,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+7,weekday_hour_mean,weekday_hour_mean,1.563622948960924,1.5789569577834568,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+8,weekday_hour_mean,weekday_hour_mean,1.563910021578313,1.5810667054535903,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+9,weekday_hour_mean,weekday_hour_mean,1.5642038773489408,1.5807645270413264,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+10,weekday_hour_mean,weekday_hour_mean,1.5644602309805198,1.5795270402655934,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+11,weekday_hour_mean,weekday_hour_mean,1.564816249160983,1.5824097653461158,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+12,weekday_hour_mean,weekday_hour_mean,1.564900543282121,1.5798341719420566,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+13,weekday_hour_mean,weekday_hour_mean,1.5651712309031944,1.5821249070814385,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+14,weekday_hour_mean,weekday_hour_mean,1.5652884024978806,1.5820686194631974,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+15,weekday_hour_mean,weekday_hour_mean,1.564748036764068,1.5819381006695743,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+16,weekday_hour_mean,weekday_hour_mean,1.5649234554052165,1.5832808579371125,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+17,weekday_hour_mean,weekday_hour_mean,1.5646776584441389,1.5834256250628604,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+18,weekday_hour_mean,weekday_hour_mean,1.5649637597195911,1.5836560936250366,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+19,weekday_hour_mean,weekday_hour_mean,1.565149997587807,1.5838425389321,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+20,weekday_hour_mean,weekday_hour_mean,1.564528112362601,1.583184356466926,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+21,weekday_hour_mean,weekday_hour_mean,1.564650375323076,1.5823212716037067,3.598425196850393,Advanced must reduce validation MAE by more than 2 percent
+22,weekday_hour_mean,weekday_hour_mean,1.5644420589109922,1.5820990772914096,3.608,Advanced must reduce validation MAE by more than 2 percent
+23,weekday_hour_mean,weekday_hour_mean,1.5646754449394975,1.5818339770209568,3.608,Advanced must reduce validation MAE by more than 2 percent
+24,weekday_hour_mean,weekday_hour_mean,1.564683885708422,1.5831076103369932,3.608,Advanced must reduce validation MAE by more than 2 percent

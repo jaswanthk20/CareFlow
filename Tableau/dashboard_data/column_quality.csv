@@ -10,7 +10,7 @@ edstays,arrival_transport,str,0,0.0,4
 edstays,disposition,str,0,0.0,7
 triage,subject_id,string,0,0.0,64
 triage,stay_id,string,0,0.0,222
-triage,temperature,float64,26,11.711711711711711,42
+triage,temperature,float64,26,11.711711711711713,42
 triage,heartrate,float64,24,10.81081081081081,70
 triage,resprate,float64,23,10.36036036036036,13
 triage,o2sat,float64,24,10.81081081081081,14
@@ -48,7 +48,7 @@ vitalsign,temperature,float64,459,44.21965317919075,76
 vitalsign,heartrate,float64,30,2.8901734104046244,92
 vitalsign,resprate,float64,48,4.624277456647398,29
 vitalsign,o2sat,float64,67,6.454720616570328,14
-vitalsign,sbp,float64,40,3.8535645472061653,121
-vitalsign,dbp,float64,40,3.8535645472061653,76
+vitalsign,sbp,float64,40,3.853564547206165,121
+vitalsign,dbp,float64,40,3.853564547206165,76
 vitalsign,rhythm,str,1005,96.82080924855492,8
 vitalsign,pain,str,302,29.09441233140655,38

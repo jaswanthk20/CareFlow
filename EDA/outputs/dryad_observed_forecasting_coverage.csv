@@ -1,0 +1,4 @@
+horizon_hours,origins_with_observed_point_target,origins_with_complete_future_window,origins_with_observed_origin_and_point_target,point_target_with_24h_origin_history,interpretation
+6,31967,25149,29879,7473,Coverage only; no model trained or accuracy measured
+12,31961,18520,29555,7454,Coverage only; no model trained or accuracy measured
+24,31949,7919,29341,7351,Coverage only; no model trained or accuracy measured

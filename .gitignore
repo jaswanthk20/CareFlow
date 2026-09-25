@@ -4,3 +4,15 @@ EDA/.venv/
 EDA/__pycache__/
 EDA/outputs/*.sqlite
 EDA/outputs/*.sqlite-*
+
+# New raw sources and local environments are never publication artifacts.
+Dataset/**
+.venv/
+**/__pycache__/
+*.sqlite
+*.sqlite-*
+*.db
+.env
+.env.*
+*.pem
+*.key
